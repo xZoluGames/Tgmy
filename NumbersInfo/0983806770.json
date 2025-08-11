@@ -1,0 +1,194 @@
+{
+  "name": {
+    "title": "",
+    "firstName": "JUNIOR ALEXANDER",
+    "middleName": null,
+    "lastName": "RODAS BENITEZ",
+    "fullName": "JUNIOR ALEXANDER RODAS BENITEZ",
+    "nativeName": ""
+  },
+  "status": "AVAILABLE",
+  "subStatus": "ACTIVA",
+  "subStatusId": 100,
+  "lei": null,
+  "metadata": [
+    {
+      "key": "CLIENT_ID",
+      "value": 3906575
+    },
+    {
+      "key": "CLIENT_ROLE",
+      "value": "2"
+    },
+    {
+      "key": "STATUS_ID",
+      "value": 100
+    },
+    {
+      "key": "KYC",
+      "value": 3
+    },
+    {
+      "key": "LEVEL_ID",
+      "value": 5000
+    },
+    {
+      "key": "DOCUMENT_TYPE",
+      "value": "CI"
+    },
+    {
+      "key": "DOCUMENT_NUMBER",
+      "value": "5673531"
+    },
+    {
+      "key": "CREATION_DATE",
+      "value": "2025-06-22 19:41:43"
+    },
+    {
+      "key": "BIRTH_DATE",
+      "value": "2006-12-12"
+    },
+    {
+      "key": "LANGUAGE",
+      "value": "ES"
+    },
+    {
+      "key": "LAST_TRANSACTION_DATE",
+      "value": "2025-08-10 18:50:44"
+    },
+    {
+      "key": "CONTACT_DEVICE_ID",
+      "value": 3791654
+    },
+    {
+      "key": "CLIENT_DESCRIPTION",
+      "value": "JUNIOR ALEXANDER RODAS BENITEZ"
+    },
+    {
+      "key": "MODIFIED_BY",
+      "value": 3791654
+    },
+    {
+      "key": "MODIFICATION_DATE",
+      "value": "2025-08-05 15:23:40"
+    },
+    {
+      "key": "LAST_UPDATED_KYC",
+      "value": "2025-08-05 15:21:32"
+    },
+    {
+      "key": "CREATED_BY",
+      "value": 0
+    },
+    {
+      "key": "SUBSCRIBER_ID",
+      "value": 3906575
+    },
+    {
+      "key": "NAME",
+      "value": "JUNIOR ALEXANDER"
+    },
+    {
+      "key": "SURNAME",
+      "value": "RODAS BENITEZ"
+    },
+    {
+      "key": "NATIONALITY",
+      "value": "PRY"
+    },
+    {
+      "key": "DEPARTMENT",
+      "value": "10"
+    },
+    {
+      "key": "ADDITIONAL_INFO",
+      "value": {
+        "ADDITIONAL_DATA": {
+          "channel": "VERIFICATE",
+          "proof_of_liveness": "true",
+          "id_match": "true",
+          "match_level": 7,
+          "identity_validated_by": "IDENTITY_VALIDATION_SUCCEEDED",
+          "id_number": "5673531",
+          "pol_date": "05/08/2025 18:21:29",
+          "id_match_date": "05/08/2025 18:21:29",
+          "facetec_session_id": "d9734ea3-e423-47fe-b8b6-c0d4b93b8acc"
+        },
+        "OPERATION_TYPE": "",
+        "STATUS": "",
+        "STATUS_DESCRIPTION": "",
+        "CLIENT_ID": ""
+      }
+    },
+    {
+      "key": "ADDRESS",
+      "value": "micasa"
+    },
+    {
+      "key": "ECONOMIC_ACTIVITY",
+      "value": "0001"
+    },
+    {
+      "key": "EXPIRATION_DATE_CI",
+      "value": "2035-02-25"
+    },
+    {
+      "key": "GENDER_OWNER",
+      "value": "M"
+    },
+    {
+      "key": "MUNICIPALITY",
+      "value": "010"
+    },
+    {
+      "key": "POLITICALLY_EXPOSED",
+      "value": "false"
+    },
+    {
+      "key": "PRIVACY_CONSENT_GIVEN",
+      "value": "yes"
+    },
+    {
+      "key": "PRIVACY_CONSENT_VERSION",
+      "value": "3"
+    },
+    {
+      "key": "PROOF_OF_INCOME",
+      "value": "false"
+    },
+    {
+      "key": "SWORN_DECLARATION",
+      "value": "false"
+    },
+    {
+      "key": "VALIDATE_PHOTO_DOCUMENT",
+      "value": "true"
+    },
+    {
+      "key": "STATUS_DESCRIPTION",
+      "value": "ACTIVA"
+    },
+    {
+      "key": "STATUS_TYPE",
+      "value": "available"
+    },
+    {
+      "key": "KYC_DESCRIPTION",
+      "value": "COMPLETO"
+    },
+    {
+      "key": "LEVEL_DESCRIPTION",
+      "value": "SUBSCRIBER"
+    },
+    {
+      "key": "MUST_ACCEPT_TERMS_AND_CONDITIONS",
+      "value": 0
+    },
+    {
+      "key": "MSISDN",
+      "value": [
+        "0983806770"
+      ]
+    }
+  ]
+}

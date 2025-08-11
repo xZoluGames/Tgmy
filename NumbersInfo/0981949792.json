@@ -1,0 +1,194 @@
+{
+  "name": {
+    "title": "",
+    "firstName": "RAFAEL ALEJANDRO",
+    "middleName": null,
+    "lastName": "SILVA SILGUERO",
+    "fullName": "RAFAEL ALEJANDRO SILVA SILGUERO",
+    "nativeName": ""
+  },
+  "status": "AVAILABLE",
+  "subStatus": "ACTIVA",
+  "subStatusId": 100,
+  "lei": null,
+  "metadata": [
+    {
+      "key": "CLIENT_ID",
+      "value": 67740
+    },
+    {
+      "key": "CLIENT_ROLE",
+      "value": "2"
+    },
+    {
+      "key": "STATUS_ID",
+      "value": 100
+    },
+    {
+      "key": "KYC",
+      "value": 4
+    },
+    {
+      "key": "LEVEL_ID",
+      "value": 5000
+    },
+    {
+      "key": "DOCUMENT_TYPE",
+      "value": "CI"
+    },
+    {
+      "key": "DOCUMENT_NUMBER",
+      "value": "4561572"
+    },
+    {
+      "key": "CREATION_DATE",
+      "value": "2013-08-27 18:47:48"
+    },
+    {
+      "key": "BIRTH_DATE",
+      "value": "1987-06-19"
+    },
+    {
+      "key": "LANGUAGE",
+      "value": "ES"
+    },
+    {
+      "key": "LAST_TRANSACTION_DATE",
+      "value": "2025-08-10 12:43:49"
+    },
+    {
+      "key": "CONTACT_DEVICE_ID",
+      "value": 166221
+    },
+    {
+      "key": "CLIENT_DESCRIPTION",
+      "value": "RAFAEL ALEJANDRO SILVA SILGUERO"
+    },
+    {
+      "key": "MODIFIED_BY",
+      "value": 27
+    },
+    {
+      "key": "MODIFICATION_DATE",
+      "value": "2025-07-26 12:00:32"
+    },
+    {
+      "key": "SUBSCRIBER_ID",
+      "value": 67740
+    },
+    {
+      "key": "BRAND_ID",
+      "value": 1
+    },
+    {
+      "key": "NAME",
+      "value": "RAFAEL ALEJANDRO"
+    },
+    {
+      "key": "SURNAME",
+      "value": "SILVA SILGUERO"
+    },
+    {
+      "key": "NATIONALITY",
+      "value": "PRY"
+    },
+    {
+      "key": "DEPARTMENT",
+      "value": "10"
+    },
+    {
+      "key": "ACCEPTANCE_DATE",
+      "value": "27-AGO-13 06.47.48.000000 PM"
+    },
+    {
+      "key": "ADDRESS",
+      "value": "San juan"
+    },
+    {
+      "key": "BANK",
+      "value": "1"
+    },
+    {
+      "key": "BANK_ACCOUNT",
+      "value": "15583254"
+    },
+    {
+      "key": "DEVICE_ID_MOBILE",
+      "value": "da84e1e2f037397f"
+    },
+    {
+      "key": "ECONOMIC_ACTIVITY",
+      "value": "0004"
+    },
+    {
+      "key": "GENDER_OWNER",
+      "value": "M"
+    },
+    {
+      "key": "IDENTIFIER",
+      "value": "3328826"
+    },
+    {
+      "key": "LENDING",
+      "value": "{\"statusJUVO\":2,\"status\":2}"
+    },
+    {
+      "key": "MUNICIPALITY",
+      "value": "010"
+    },
+    {
+      "key": "OPTIN_ID",
+      "value": "1"
+    },
+    {
+      "key": "POLITICALLY_EXPOSED",
+      "value": "false"
+    },
+    {
+      "key": "PRIVACY_CONSENT_GIVEN",
+      "value": "yes"
+    },
+    {
+      "key": "PRIVACY_CONSENT_VERSION",
+      "value": "3"
+    },
+    {
+      "key": "PROOF_OF_INCOME",
+      "value": "true"
+    },
+    {
+      "key": "SWORN_DECLARATION",
+      "value": "false"
+    },
+    {
+      "key": "VALIDATE_PHOTO_DOCUMENT",
+      "value": "true"
+    },
+    {
+      "key": "STATUS_DESCRIPTION",
+      "value": "ACTIVA"
+    },
+    {
+      "key": "STATUS_TYPE",
+      "value": "available"
+    },
+    {
+      "key": "KYC_DESCRIPTION",
+      "value": "AVANZADO"
+    },
+    {
+      "key": "LEVEL_DESCRIPTION",
+      "value": "SUBSCRIBER"
+    },
+    {
+      "key": "MUST_ACCEPT_TERMS_AND_CONDITIONS",
+      "value": 0
+    },
+    {
+      "key": "MSISDN",
+      "value": [
+        "0981949792"
+      ]
+    }
+  ]
+}
